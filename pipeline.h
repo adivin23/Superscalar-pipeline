@@ -1,8 +1,4 @@
-// ----------------------------------------------------------------------- //
-// You should not need to modify this file.                                //
-// If you do, you may add any declarations you may need, but do not modify //
-// or remove the existing declarations.                                    //
-// ----------------------------------------------------------------------- //
+
 
 // pipeline.h
 // Declares the pipeline struct, as well as functions, data structures, and
