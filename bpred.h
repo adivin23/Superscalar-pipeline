@@ -1,9 +1,4 @@
-// ---------------------------------------------------------------------- //
-// For part B, you may need to modify this file.                          //
-// You may add any declarations you may need, but do not modify or remove //
-// the existing declarations, except for adding new member variables and  //
-// methods to the BPred class.                                            //
-// ---------------------------------------------------------------------- //
+
 
 // bpred.h
 // Declares the branch predictor class, as well as enums and utility functions
