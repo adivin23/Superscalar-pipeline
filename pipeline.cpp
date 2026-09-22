@@ -1,9 +1,4 @@
-// --------------------------------------------------------------------- //
-// You will need to modify this file.                                    //
-// You may add any code you need, as long as you correctly implement the //
-// required pipe_cycle_*() functions already listed in this file.        //
-// In part B, you will also need to implement pipe_check_bpred().        //
-// --------------------------------------------------------------------- //
+
 
 // pipeline.cpp
 // Implements functions to simulate a pipelined processor.
