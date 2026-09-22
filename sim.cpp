@@ -1,6 +1,4 @@
-// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! //
-// You should not modify this file. //
-// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! //
+
 
 // sim.cpp
 // Performs a timing simulation of a pipelined CPU for ECE 4100/6100 &
