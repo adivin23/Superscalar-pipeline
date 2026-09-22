@@ -1,6 +1,4 @@
-// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! //
-// You should not modify this file. //
-// !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! //
+
 
 // trace.h
 // Declares the trace record struct, which is a structure containing
