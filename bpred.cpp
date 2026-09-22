@@ -1,8 +1,4 @@
-// --------------------------------------------------------------------- //
-// For part B, you will need to modify this file.                        //
-// You may add any code you need, as long as you correctly implement the //
-// three required BPred methods already listed in this file.             //
-// --------------------------------------------------------------------- //
+
 
 // bpred.cpp
 // Implements the branch predictor class.
